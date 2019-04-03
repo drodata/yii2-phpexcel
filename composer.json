@@ -1,5 +1,5 @@
 {
-	"name": "alexgx/yii2-phpexcel",
+	"name": "drodata/yii2-phpexcel",
 	"description": "PhpExcel component extension for Yii2.",
 	"keywords": ["yii", "extension", "component", "PhpExcel"],
 	"type": "yii2-extension",
@@ -9,15 +9,20 @@
 			"name": "Alexander Gubarev",
 			"email": "gubarev.alex@gmail.com",
 			"homepage": "http://actionmedia-labs.net"
+		},
+		{
+			"name": "drodata",
+			"email": "chnkui@gmail.com",
+			"homepage": "http://drodata.me"
 		}
 	],
 	"require": {
-		"yiisoft/yii2": "*",
+		"yiisoft/yii2": "2.0.17",
 		"phpoffice/phpexcel": "1.8.1"
 	},
 	"autoload": {
 		"psr-4": {
-			"alexgx\\phpexcel\\": ""
+			"drodata\\phpexcel\\": ""
 		}
 	}
 }
