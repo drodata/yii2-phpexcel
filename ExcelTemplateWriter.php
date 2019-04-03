@@ -1,6 +1,6 @@
 <?php
 
-namespace alexgx\phpexcel;
+namespace dro\phpexcel;
 
 class ExcelTemplateWriter extends \yii\base\BaseObject
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace alexgx\phpexcel;
+namespace dro\phpexcel;
 
 class ExcelDataReader extends \yii\base\BaseObject
 {
